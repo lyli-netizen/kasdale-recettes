@@ -7,13 +7,19 @@ Projet de groupe réalisé en 1re année de Bachelor Informatique à l'ESGI Pari
 
 ![Page d'accueil](captures/accueil-desktop.png)
 
+### Ma page : Nos recettes
+
+![Page Nos recettes](captures/recettes-desktop.png)
+
 ## L'équipe
 
 | Membre | Rôle sur le projet |
 |---|---|
-| Karan BLOT | Développement HTML/CSS |
+| Karan BLOT | Chef de projet : direction artistique et premier modèle de page, repris par l'équipe |
 | André De Sousa | Développement HTML/CSS |
-| Mouami Amoi BAKARI GANDO | **[À COMPLÉTER : pages et éléments réalisés]** |
+| **Mouami Amoi BAKARI GANDO** | **Page « Nos recettes »** (`recettes.html`) |
+
+Nous sommes partis de la direction artistique et du modèle de Karan, d'où la cohérence entre les pages. Chacun a développé ses pages en prévenant le groupe à chaque modification de la feuille de style commune.
 
 ## Ce que contient le site
 
